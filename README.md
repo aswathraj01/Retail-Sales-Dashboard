@@ -44,7 +44,7 @@ It provides actionable insights into sales trends, profitability, customer segme
 - Interactive slicers for Product, Region, and Time
 
 **Preview:**  
-![Main Dashboard](Screenshots/Screenshot%202026-02-08%20213444.png)
+![Main Dashboard](screenshots/Screenshot%202026-02-08%20213444.png)
 
 ---
 
@@ -55,7 +55,7 @@ It provides actionable insights into sales trends, profitability, customer segme
 - Product Ranking
 
 **Preview:**  
-![Product Performance Drill-Through](Screenshots/Screenshot%202026-02-08%20213450.png)
+![Product Performance Drill-Through](screenshots/Screenshot%202026-02-08%20213450.png)
 
 ---
 
@@ -67,7 +67,7 @@ It provides actionable insights into sales trends, profitability, customer segme
 - Region-wise Revenue
 
 **Preview:**  
-![Customer Insights Drill-Through](Screenshots/Screenshot%202026-02-08%20213508.png)
+![Customer Insights Drill-Through](screenshots/Screenshot%202026-02-08%20213508.png)
 
 ---
 
@@ -92,7 +92,7 @@ It is suitable for **academic submission, portfolio projects, and interviews**.
 ---
 Retail-Sales-Dashboard/
 │
-├── Screenshots/
+├── screenshots/
 │   ├── Screenshot 2026-02-08 213444.png
 │   ├── Screenshot 2026-02-08 213450.png
 │   └── Screenshot 2026-02-08 213508.png
