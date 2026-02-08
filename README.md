@@ -43,11 +43,21 @@ It provides actionable insights into sales trends, profitability, customer segme
 - Actual vs Target Sales by Region
 - Interactive slicers for Product, Region, and Time
 
+**Preview:**  
+![Main Dashboard](Screenshots/Screenshot%202026-02-08%20213444.png)
+
+---
+
 ### 2️⃣ Product Performance (Drill-Through)
 - Product-specific Sales, Profit, Quantity
 - Monthly Sales Trend
 - Region-wise Sales Distribution
 - Product Ranking
+
+**Preview:**  
+![Product Performance Drill-Through](Screenshots/Screenshot%202026-02-08%20213450.png)
+
+---
 
 ### 3️⃣ Customer Insights (Drill-Through)
 - Customer Sales and Profit
@@ -56,18 +66,8 @@ It provides actionable insights into sales trends, profitability, customer segme
 - Customer Segment
 - Region-wise Revenue
 
----
-
-## 🖼️ Dashboard Screenshots
-
-All dashboard screenshots are available in the **Screenshots** folder.
-
-### Screenshot Files
-- `Screenshot 2026-02-08 213444.png` — Main Dashboard  
-- `Screenshot 2026-02-08 213450.png` — Product Performance Drill-Through  
-- `Screenshot 2026-02-08 213508.png` — Customer Insights Drill-Through  
-
-> These images provide a visual overview of the dashboard layout, KPIs, trends, and drill-through functionality.
+**Preview:**  
+![Customer Insights Drill-Through](Screenshots/Screenshot%202026-02-08%20213508.png)
 
 ---
 
